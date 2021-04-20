@@ -1,0 +1,21 @@
+package com.example.tweets;
+
+
+
+import java.util.List;
+
+import retrofit2.Call;
+import retrofit2.http.GET;
+import retrofit2.http.Query;
+
+public interface ApiInterface {
+
+
+
+
+
+    @GET("posts")
+    static Call<List<Post>> getPosts();
+
+
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "478341590948",
+    "project_id": "tweets-daf5b",
+    "storage_bucket": "tweets-daf5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478341590948:android:ac2af955052869deae1b31",
+        "android_client_info": {
+          "package_name": "com.example.tweets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478341590948-ljrit07cm50glg47ierj9n8bbe88g4ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpconj0cOKZTEWTikOmUx6fRfAUEphIqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478341590948-ljrit07cm50glg47ierj9n8bbe88g4ag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
